@@ -19,6 +19,7 @@ let MUL   = \n m -> n (ADD m) ZERO
 eval incr_one :
   INCR ONE
   -- (a) fill in your reductions here
+  =d> 
   =d> TWO
 
 eval add_one_zero :
